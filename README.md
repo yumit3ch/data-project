@@ -1,6 +1,6 @@
 # data-project
 Data Engineering Project for The Information Lab
-Data source: FreeToGame.com
+Data source: [FreeToGame.com](https://www.freetogame.com/api-doc)
 
 ## What Does This Project Do? 
 I've always had a keen interest in games and so I decided to use an API that holds data of several games of different generes. I made a simple project that pulls the information from the API of games that meet the criteria of the select statements.
